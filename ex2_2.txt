@@ -1,0 +1,8 @@
+.pid1-wrapped-+-bash-+-ex2-+-ex2-+-ex2---ex2
+              |      |     |     `-ex2
+              |      |     |-ex2---ex2
+              |      |     `-ex2
+              |      `-pstree
+              |-bash
+              |-querydb---7*[{querydb}]
+              `-13*[{.pid1-wrapped}]
